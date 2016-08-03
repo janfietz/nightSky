@@ -1,3 +1,9 @@
 [submodule "submodules/ChibiOS"]
 	path = submodules/ChibiOS
 	url = git@github.com:ChibiOS/ChibiOS.git
+[submodule "submodules/tmb_effects"]
+	path = submodules/tmb_effects
+	url = git@github.com:janfietz/tmb_effects.git
+[submodule "submodules/ws281x"]
+	path = submodules/ws281x
+	url = git@github.com:janfietz/ws281x.git
